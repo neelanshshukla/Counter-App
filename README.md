@@ -8,7 +8,7 @@ Live Demo:
 
 Preview:
 
-![Counter App](assets/screenshot.png)
+![Counter App](assets/Screenshot.png)
 
 Features:
 - Increase count
