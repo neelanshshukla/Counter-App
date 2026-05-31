@@ -1,0 +1,33 @@
+/* counter program */
+
+body
+{
+    background-image: url(woodenbackground.jpg);
+    background-size:cover;
+}
+#countlabel
+{
+   margin-top: 100px;
+   font-size:12em;
+   text-align:center;
+   display:block;
+}
+#buttoncontainer
+{
+   text-align:center;
+}
+.buttons
+{
+    margin-top:120px;
+    font-size:2em;
+    padding: 10px 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color:black;
+    color:white;
+    transition: background-color 0.2s ease;
+}
+.buttons:hover
+{
+    background-color:rgb(92, 89, 89);
+}
